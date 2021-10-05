@@ -15,12 +15,12 @@ Accountability Accounting is assessing cryptocurrencies for the possibility of p
 
 K-means was utilized to find the elbow curve to determine the appropriate number of clusters.
 
-![K Means](Resources/images/elbow_curve.png)
+![K Means](resources/images/elbow_curve.png)
 
 PCS data was used to cluster the data in a 3d scatter plot using the number based from the elbow curve plot.
 
-![3D Scatter](Resources/images/3d_scatter_with_clusters.png)
+![3D Scatter](resources/images/3d_scatter_with_clusters.png)
 
 hvplot was used to create a scatter plot of the currencies based on Total Coin Supply and Total Coins Mined.
 
-![Scatter Plot](Resources/images/scatter.png)
+![Scatter Plot](resources/images/scatter.png)
