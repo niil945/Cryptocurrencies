@@ -6,7 +6,7 @@ Accountability Accounting is assessing cryptocurrencies for the possibility of p
 
 ## Data Preprocessing
 
- - The data was cleaned, dropping cryptocurrencies that aren't being traded, currencies that don't have a working algorithm, and currencies where there have been coins mined.
+ - The data was cleaned, dropping cryptocurrencies that aren't being traded, currencies that don't have a working algorithm, and currencies where no coins have been mined.
  - Data types were altered so they could be used in scaling.
  - get_dummies() and StandardScaler() were used to scale the data for use with unsupervised ML.
  - Dimensions were reduced to 3 principal components
